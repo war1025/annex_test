@@ -1,1 +1,2 @@
 6efcf776-dfa2-40aa-956d-d58a05cc32bc chunksize=2mb encryption=none name=box.com type=directory timestamp=1395773796.855977s
+9e85ab26-beb6-4c1e-8639-d6709797e168 chunksize=75mb encryption=none name=box.com3 type=webdav url=https://dav.box.com/dav/git-annex timestamp=1395774425.525114s
