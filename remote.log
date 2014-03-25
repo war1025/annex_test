@@ -1,4 +1,4 @@
-15f6a070-75f7-402b-9b8d-da415b017293 chunksize=75mb encryption=none name=box.com3 type=webdav url=https://dav.box.com/dav/git-annex timestamp=1395774369.686677s
+15f6a070-75f7-402b-9b8d-da415b017293 chunksize=75mb encryption=none name=box.com3 type=webdav url=https://dav.box.com/dav/git-annex timestamp=1395774487.234758s
 6efcf776-dfa2-40aa-956d-d58a05cc32bc chunksize=2mb encryption=none name=box.com type=directory timestamp=1395773796.855977s
 93f9747f-b515-4b58-888b-13c3b0de915b chunksize=2mb encryption=none name=box.com2 type=directory timestamp=1395774132.366492s
 9e85ab26-beb6-4c1e-8639-d6709797e168 chunksize=75mb encryption=none name=box.com3 type=webdav url=https://dav.box.com/dav/git-annex timestamp=1395774425.525114s
